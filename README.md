@@ -1,29 +1,38 @@
-## Hi there 👋
+# Cze&#347;&#263;, jestem Oskar 👋
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+Programista **Java / Spring Boot**, kt&#243;ry &#322;&#261;czy backend, relacyjne bazy danych i dobre do&#347;wiadczenie u&#380;ytkownika. Pracuj&#281; pragmatycznie: najpierw sprawdzam faktyczne &#378;r&#243;d&#322;o problemu, potem wdra&#380;am ma&#322;&#261;, weryfikowaln&#261; zmian&#281;.
 
-I'm Oskar and I'm just learning Java and Git. I don't have any public repositories yet, but I'm playing around with Oracle SQL and PostgreSQL.
+## W czym czuj&#281; si&#281; dobrze
 
-### 🔭 Currently working on:
-- Learning the basics of Java
-- Understanding the Git version control system
+- Java, Spring Boot, REST API i JDBC
+- PostgreSQL i Oracle: SQL, importy danych, migracje i sekwencje
+- Git, Docker oraz testy jako cz&#281;&#347;&#263; codziennego workflow
+- UI/UX: proste interfejsy i komunikaty b&#322;&#281;d&#243;w, z kt&#243;rymi mo&#380;na dzia&#322;a&#263;
 
-### 🌱 Currently learning:
-- Java
-- Git
-- SQL (Oracle and PostgreSQL)
-- Docker
-- Home Assistant
+## Jak pracuj&#281;
 
-### 💬 Ask me about:
-- My experiences with learning Java and Git
-- My projects related to SQL
+1. Ustalam rzeczywiste &#378;r&#243;d&#322;o problemu w kodzie, bazie lub dzia&#322;aj&#261;cej aplikacji.
+2. Robi&#281; mo&#380;liwie ma&#322;&#261; i czyteln&#261; poprawk&#281;.
+3. Weryfikuj&#281; efekt testami oraz w rzeczywistym przep&#322;ywie.
 
-### ⚡ Fun fact:
-- I love discovering new technologies and programming tools.
+## AI-assisted development
 
+Pracuj&#281; z **Codexem**, **Antigravity** i **Ollama** — do researchu, prototypowania, analizy kodu i przyspieszania iteracji. AI wspiera m&#243;j workflow; odpowiedzialno&#347;&#263; za kod, testy i rezultat pozostaje po mojej stronie.
+
+## Aktualnie rozwijam
+
+- bardziej zaawansowane wzorce w Spring Boot
+- Swift i SwiftUI
+- projektowanie API, testy oraz jako&#347;&#263; kodu
+
+## Wybrane obszary projektowe
+
+- bezpieczne importy danych: walidacja SQL, transakcje i dane audytowe
+- migracje PostgreSQL/Flyway i diagnostyka sekwencji
+- administracyjne przep&#322;ywy UI z czytelnymi danymi audytowymi oraz b&#322;&#281;dami dla u&#380;ytkownika
+- automatyzacja AI workflow i synchronizacja wsp&#243;lnych narz&#281;dzi mi&#281;dzy &#347;rodowiskami
+
+## Znajdziesz mnie tutaj
+
+- [Portfolio](https://oskar5510.github.io)
+- [LinkedIn](https://www.linkedin.com/in/oskar5510)
